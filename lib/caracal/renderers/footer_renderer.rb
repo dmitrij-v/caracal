@@ -56,6 +56,7 @@ module Caracal
                 end
               end
             end
+          end
           #elsif document.footer_content.valid?
           #  xml['w'].ftr root_options do
 
